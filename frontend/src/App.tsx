@@ -1,5 +1,5 @@
 
-import TextInput from './Component/TextInput'
+import TextInput from './Component/TextInput.tsx'
 function App() {
   return (
     <>
