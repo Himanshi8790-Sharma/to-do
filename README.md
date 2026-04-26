@@ -34,7 +34,7 @@ A modern and responsive **Task Manager Web Application** that helps users effici
 
 ## 📸 Screenshots
 
-### 🏠 Main Dashboard
+### 🏠 Dashboard
 ![Dashboard](./Screenshot/task.png)
 
 ---
