@@ -35,13 +35,7 @@ A modern and responsive **Task Manager Web Application** that helps users effici
 ## 📸 Screenshots
 
 ### 🏠 Main Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### ➕ Add Task with Date
-![Add Task](./screenshots/add.png)
-
-### 📊 Progress & Task Status
-![Progress](./screenshots/progress.png)
+![Dashboard](./Screenshot/task.png)
 
 ---
 
