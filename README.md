@@ -54,9 +54,4 @@ A modern and responsive **Task Manager Web Application** that helps users effici
 
 ---
 
-## ⚙️ Installation & Setup
 
-```bash
-git clone https://github.com/your-username/task-manager.git
-npm install
-npm start
